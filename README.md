@@ -5,11 +5,11 @@ Using Java for this project for students to create, view, update, and delete que
 
 ## Features
 - **CRUD Operations for Questions & Answers**
-  Students can create, update, delete, and read questions.
-  Students can submit answers, modify them, delete them, and retrieve answers to a question.
+  - Students can create, update, delete, and read questions.
+  - Students can submit answers, modify them, delete them, and retrieve answers to a question.
 - **Input Validation**
-  Prevents empty or invalid inputs when submitting questions and answers.
+  - Prevents empty or invalid inputs when submitting questions and answers.
 - **Unique ID Tracking**
-  Each question and answer has a unique ID.
+  - Each question and answer has a unique ID.
 - **Error Handling**
-  Displays appropriate error messages for invalid operations.
+  - Displays appropriate error messages for invalid operations.
